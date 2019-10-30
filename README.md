@@ -14,7 +14,11 @@ jogging
 
 walking
 
-i am going to do all this using this three elements html , Css, Java script .
+i am going to do all this using this three elements 
+html 
+Css
+Java script 
+
 It is going to have about 8 pages only .
 For better illustrations i am going to use pictures and short videos.
 
