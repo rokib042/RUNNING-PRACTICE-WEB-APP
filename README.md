@@ -3,7 +3,8 @@ web application
 
 RUNNING PRACTICE 
 
-features
+Features
+
 This website is going to consist of the following features:
 marathon
 sprinting
