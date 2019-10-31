@@ -1,4 +1,4 @@
-# RUNNING PRACTICE
+# RUNNING PRACTICE WEB APP
 
 
 # Introduction
