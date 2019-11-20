@@ -26,7 +26,7 @@ I have decided to create RUN THE STREETS OF QUEENS AND KINGS website because i w
 
 
 ## Plan 
-* creating front end  
+* week for 11 creating front end  
 * creating back end 
 * checking errors
 * Submit
