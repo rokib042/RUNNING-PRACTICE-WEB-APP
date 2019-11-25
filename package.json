@@ -1,0 +1,37 @@
+{
+  "name": "RUNNING-PRACTICE-WEB-APP",
+  "version": "1.0.0",
+  "description": "I have decided to create RUN THE STREETS OF QUEENS AND KINGS website because i want to encourage people to run everyday for body fittness and it is health for our bodies. I do run everyday , and for the past 10 years i have understood what is required so that we stay fit. I decided to share what my knowledge and to allow others to share theirs through this website. I am hope that this website will help people in their daily lives.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokib042/RUNNING-PRACTICE-WEB-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokib042/RUNNING-PRACTICE-WEB-APP/issues"
+  },
+  "homepage": "https://github.com/rokib042/RUNNING-PRACTICE-WEB-APP#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
